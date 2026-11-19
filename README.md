@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Md. Habibullah - Full-Stack Developer | Building Modern Web & Blockchain Solutions" width="100%"/>
+  <img src="./banner-wave.gif" alt="Md. Habibullah - Full-Stack Developer | Building Modern Web & Blockchain Solutions" width="100%"/>
 </p>
 
 <h1 align="center">Hi there, I'm Habibullah 👋</h1>
@@ -75,7 +75,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/md-habibullah-b46b85362" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mhabibullah2279@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mhabibullah2279@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <!-- Add more: X, Facebook, Discord, WhatsApp, portfolio link -->
 </p>
 
